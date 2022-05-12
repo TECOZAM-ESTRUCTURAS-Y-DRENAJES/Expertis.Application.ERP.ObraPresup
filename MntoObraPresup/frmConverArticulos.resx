@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="ImgList.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>10, 8</value>
+  </metadata>
+  <data name="ImgList.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAACC
+        DQAAAk1TRnQBSQFMAgEBBgEAAQkBAAEEAQABEAEAARABAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        AwABQAMAASADAAEBAQABCAYAAQgYAAGAAgABgAMAAoABAAGAAwABgAEAAYABAAKAAgADwAEAAcAB3AHA
+        AQAB8AHKAaYBAAEzBQABMwEAATMBAAEzAQACMwIAAxYBAAMcAQADIgEAAykBAANVAQADTQEAA0IBAAM5
+        AQABgAF8Af8BAAJQAf8BAAGTAQAB1gEAAf8B7AHMAQABxgHWAe8BAAHWAucBAAGQAakBrQIAAf8BMwMA
+        AWYDAAGZAwABzAIAATMDAAIzAgABMwFmAgABMwGZAgABMwHMAgABMwH/AgABZgMAAWYBMwIAAmYCAAFm
+        AZkCAAFmAcwCAAFmAf8CAAGZAwABmQEzAgABmQFmAgACmQIAAZkBzAIAAZkB/wIAAcwDAAHMATMCAAHM
+        AWYCAAHMAZkCAALMAgABzAH/AgAB/wFmAgAB/wGZAgAB/wHMAQABMwH/AgAB/wEAATMBAAEzAQABZgEA
+        ATMBAAGZAQABMwEAAcwBAAEzAQAB/wEAAf8BMwIAAzMBAAIzAWYBAAIzAZkBAAIzAcwBAAIzAf8BAAEz
+        AWYCAAEzAWYBMwEAATMCZgEAATMBZgGZAQABMwFmAcwBAAEzAWYB/wEAATMBmQIAATMBmQEzAQABMwGZ
+        AWYBAAEzApkBAAEzAZkBzAEAATMBmQH/AQABMwHMAgABMwHMATMBAAEzAcwBZgEAATMBzAGZAQABMwLM
+        AQABMwHMAf8BAAEzAf8BMwEAATMB/wFmAQABMwH/AZkBAAEzAf8BzAEAATMC/wEAAWYDAAFmAQABMwEA
+        AWYBAAFmAQABZgEAAZkBAAFmAQABzAEAAWYBAAH/AQABZgEzAgABZgIzAQABZgEzAWYBAAFmATMBmQEA
+        AWYBMwHMAQABZgEzAf8BAAJmAgACZgEzAQADZgEAAmYBmQEAAmYBzAEAAWYBmQIAAWYBmQEzAQABZgGZ
+        AWYBAAFmApkBAAFmAZkBzAEAAWYBmQH/AQABZgHMAgABZgHMATMBAAFmAcwBmQEAAWYCzAEAAWYBzAH/
+        AQABZgH/AgABZgH/ATMBAAFmAf8BmQEAAWYB/wHMAQABzAEAAf8BAAH/AQABzAEAApkCAAGZATMBmQEA
+        AZkBAAGZAQABmQEAAcwBAAGZAwABmQIzAQABmQEAAWYBAAGZATMBzAEAAZkBAAH/AQABmQFmAgABmQFm
+        ATMBAAGZATMBZgEAAZkBZgGZAQABmQFmAcwBAAGZATMB/wEAApkBMwEAApkBZgEAA5kBAAKZAcwBAAKZ
+        Af8BAAGZAcwCAAGZAcwBMwEAAWYBzAFmAQABmQHMAZkBAAGZAswBAAGZAcwB/wEAAZkB/wIAAZkB/wEz
+        AQABmQHMAWYBAAGZAf8BmQEAAZkB/wHMAQABmQL/AQABzAMAAZkBAAEzAQABzAEAAWYBAAHMAQABmQEA
+        AcwBAAHMAQABmQEzAgABzAIzAQABzAEzAWYBAAHMATMBmQEAAcwBMwHMAQABzAEzAf8BAAHMAWYCAAHM
+        AWYBMwEAAZkCZgEAAcwBZgGZAQABzAFmAcwBAAGZAWYB/wEAAcwBmQIAAcwBmQEzAQABzAGZAWYBAAHM
+        ApkBAAHMAZkBzAEAAcwBmQH/AQACzAIAAswBMwEAAswBZgEAAswBmQEAA8wBAALMAf8BAAHMAf8CAAHM
+        Af8BMwEAAZkB/wFmAQABzAH/AZkBAAHMAf8BzAEAAcwC/wEAAcwBAAEzAQAB/wEAAWYBAAH/AQABmQEA
+        AcwBMwIAAf8CMwEAAf8BMwFmAQAB/wEzAZkBAAH/ATMBzAEAAf8BMwH/AQAB/wFmAgAB/wFmATMBAAHM
+        AmYBAAH/AWYBmQEAAf8BZgHMAQABzAFmAf8BAAH/AZkCAAH/AZkBMwEAAf8BmQFmAQAB/wKZAQAB/wGZ
+        AcwBAAH/AZkB/wEAAf8BzAIAAf8BzAEzAQAB/wHMAWYBAAH/AcwBmQEAAf8CzAEAAf8BzAH/AQAC/wEz
+        AQABzAH/AWYBAAL/AZkBAAL/AcwBAAJmAf8BAAFmAf8BZgEAAWYC/wEAAf8CZgEAAf8BZgH/AQAC/wFm
+        AQABIQEAAaUBAANfAQADdwEAA4YBAAOWAQADywEAA7IBAAPXAQAD3QEAA+MBAAPqAQAD8QEAA/gBAAHw
+        AfsB/wEAAaQCoAEAA4ADAAH/AgAB/wMAAv8BAAH/AwAB/wEAAf8BAAL/AgAD/0gAAfABkgHsAYsB6wHs
+        BAABRgHpAZMBAAFFAUYBBykAAXIBTwIAAU8BAAHwAewBGQGmAa0B7AQAAUUBTQElAUYBJgEsAUYpAAFy
+        ATQBcgFPAS4BAAHxAe0BrQGmAccBiwQAAW8BJQNNASUBBwMAAVAlAAFPAVUBAgE0AS4BAAHxAYsBpgKt
+        AawBtAQAARwBJQFNAUcBbwG8AgABVgFyJQABTwFVAS4BVQEuAQABvAGLAa0BBwG0AqwBswMAAUUBTQFG
+        AU0BJQG8ARwBVgFcAXIlAAFPAVUBTwFVAS4BcgEIAZgBCAEHAQgBtAKsAwABJQFNAW8BRQFNAUYBnwF9
+        AVYBTwNyIgABTwFWAVUBVgFPAVcBfQF4AVUCfQEIAbMBrAMAARwBRgIIAUYBmQGfAVYBVQJ9AVAjAAFP
+        AlYBVQJ9AlYBfQFcAVACAAGtAwABcgGfAlYCnwJWAX0BXAFQJAABTwJWAn0BVgGXAX0BVgFyBwABTwJW
+        An0BVgGXAX0BVgFyJQABLgFWBX0BVgFyCAABLgFWBX0BVgFyJgABVgV9AVYKAAFWBX0BVigAAZcBVgFV
+        An0BVgsAAZcBVgFVAn0BVikAAZcDfQFWDAABlwN9AVYrAAF4ApcOAAF4ApesAASuAZEBBwFyAU8BSAFJ
+        AXIBBwMAAUYB6QGOAbwCRgHvAZEFrhQAAUUB6QFuBQABbgFFBgABrgH/A/QBTwMtAQIBSAFJAwABRQFN
+        ASUBRgEmASwBRgH/A/QBGQGuEwABRQJHASUBRQMAAUUCJQEgAUUEAAGuAf8BCQHwAZ0BLgFVAf8BeAIt
+        AUgBcgIAAW8BJQNNASUB8AQJAfQBrgcAAU8BAgFyCQABRgJNAUcBJgHpAQABRQElAyYBJQFuAwABkQH/
+        AbwB8gFPAVUB9AL/AXgBLQECAUkDAAGTASUBTQFHAW8B8QQJAfQBrgYAAU8BLgE0AS0BcgkAAUYDTQFH
+        AR8BJQUmAUUDAAGRAf8BvAHzAU8BlwEIAS4BmAH/AXgBLQFIAwABRQFNAUYBTQElAfABvAMJAfQBrgUA
+        AU8BLgE0AS4BNAEtAXIHAAFvAUYFTQJHAyYB6QQAAZEB/wG8AfICVgJVATQBmAH/AZcBSQMAASUBTQGT
+        AUYBTQFGAfIDCQH0Aa4EAAFPBFUCNAEtAXIHAAFvAUYFTQJHASYBRQUAAZEB/wG8AfABnQF4AlYBVQEu
+        AZgBVgFyAwABkwFGAfMBvAFGARoB8AMJAfQBrgMAAU8DVQEuAS0BlwFVATQBLQkAAkYETQEmAUUGAAHt
+        BP8BlwF4AlYBVQEuAU8EAAG1Cf8B9AGuAwABVQFWAVUBNAFPAQABTwGXAVUBNAECCQABRgRNAUcBRQYA
+        Ae0B/wO8AfIBnQGXAVUBTwGYAQcEAAHtAf8FvAMJAfQBrgMAAZcBVgFVAU8DAAFPAZcCNAEtBwABRgZN
+        ASUBRgUAAbUJ/wH0Aa4EAAG1CP8B9AHzAa4LAAFPAZcCNAEtBgABRgF1Ak0BIANNASUFAAG1B/8EkQQA
+        AbUH/wSRDAABTwGXAjQBAgQAAUYB4wF1AU0BRgEAAUYCTQFHAekEAAG1B/8BkQHzAbQB9wQAAbUH/wGR
+        AfMBtAH3DQABTwGXAVUBTwQAAUYCdQFGAW8CAAElAk0BJQFFAwABtQf/AZEBtAH3BQABtQf/AZEBtAH3
+        DwACTwUAAUYBTAF1AUYEAAElAU0BJQFGAwAEtQK0A5EB9wYABLUCtAORAfcZAAFGBQABbwFGQwABQgFN
+        AT4HAAE+AwABKAMAAUADAAEgAwABAQEAAQEGAAEBFgAD/wEABP8EAAH+AQcBiAH/BAABmgEHAYAB/wQA
+        AYIBBwGAAe8EAAGCAQMBwAHPBAABggEBAcABDwQAAYABAQHAAQEEAAGAAQEBwAEDBAABgAENAcABBwQA
+        AYABHwHAAQ8EAAGAAT8BwAEfBAABgAH/AcABfwQAAYEB/wHAAf8EAAGDAf8BwQH/BAABxwH/AeMB/wQA
+        BP8EAAj/AcABAwGAAQMC/wHHAc8BwAEDAYABAwL/AoMBwAEBAYABAwH4Af8BgQEBAcABAQHAAQMB8AF/
+        AcABAQHAAQEBwAEDAeABPwGAAQMBwAEBAcABAwHAAR8BwAEHAcABAQHAAQMBgAEfAfABDwHAAQMBwAED
+        AYIBDwH4AQ8BwAEDAcABAwGHAQcB8AEHAcABAwHAAQMB/wGDAfABBwHAAQMBwAEDAf8BwQHgAYMBwAED
+        AcABAwH/AeEB4AHBAcABBwHAAQcB/wHzAuEBwAEPAcABDwL/AfsB5wj/Cw==
+</value>
+  </data>
+  <data name="GridMateriales_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="IDPresup"&gt;&lt;Caption&gt;IDPresup&lt;/Caption&gt;&lt;DataMember&gt;IDPresup&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDPresup&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column0&gt;&lt;Column1 ID="IDLineaMaterial"&gt;&lt;Caption&gt;IDLineaMaterial&lt;/Caption&gt;&lt;DataMember&gt;IDLineaMaterial&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDLineaMaterial&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column1&gt;&lt;Column2 ID="IDTrabajoPresup"&gt;&lt;Caption&gt;IDTrabajoPresup&lt;/Caption&gt;&lt;DataMember&gt;IDTrabajoPresup&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDTrabajoPresup&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column2&gt;&lt;Column3 ID="Secuencia"&gt;&lt;Caption&gt;Sec.&lt;/Caption&gt;&lt;DataMember&gt;Secuencia&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Secuencia&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;40&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="CodTrabajo"&gt;&lt;Caption&gt;Cod. Trabajo&lt;/Caption&gt;&lt;DataMember&gt;CodTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;CodTrabajo&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;90&lt;/Width&gt;&lt;/Column4&gt;&lt;Column5 ID="QPresupTrabajo"&gt;&lt;Caption&gt;QPresupTrabajo&lt;/Caption&gt;&lt;DataMember&gt;QPresupTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;QPresupTrabajo&lt;/Key&gt;&lt;Position&gt;5&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column5&gt;&lt;Column6 ID="IDMaterial"&gt;&lt;Caption&gt;Material&lt;/Caption&gt;&lt;DataMember&gt;IDMaterial&lt;/DataMember&gt;&lt;Key&gt;IDMaterial&lt;/Key&gt;&lt;Position&gt;6&lt;/Position&gt;&lt;/Column6&gt;&lt;Column7 ID="DescMaterial"&gt;&lt;Caption&gt;Desc. Material&lt;/Caption&gt;&lt;DataMember&gt;DescMaterial&lt;/DataMember&gt;&lt;Key&gt;DescMaterial&lt;/Key&gt;&lt;Position&gt;7&lt;/Position&gt;&lt;Width&gt;500&lt;/Width&gt;&lt;/Column7&gt;&lt;Column8 ID="IDProveedor"&gt;&lt;Caption&gt;Proveedor&lt;/Caption&gt;&lt;DataMember&gt;IDProveedor&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDProveedor&lt;/Key&gt;&lt;Position&gt;8&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;84&lt;/Width&gt;&lt;/Column8&gt;&lt;Column9 ID="QUnidad"&gt;&lt;Caption&gt;QUnidad&lt;/Caption&gt;&lt;DataMember&gt;QUnidad&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;QUnidad&lt;/Key&gt;&lt;Position&gt;9&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column9&gt;&lt;Column10 ID="QPresup"&gt;&lt;Caption&gt;QPresup&lt;/Caption&gt;&lt;DataMember&gt;QPresup&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;QPresup&lt;/Key&gt;&lt;Position&gt;10&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column10&gt;&lt;Column11 ID="FechaEntrega"&gt;&lt;Caption&gt;Fecha Entrega&lt;/Caption&gt;&lt;DataMember&gt;FechaEntrega&lt;/DataMember&gt;&lt;DefaultGroupFormatString&gt;d&lt;/DefaultGroupFormatString&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;FechaEntrega&lt;/Key&gt;&lt;Position&gt;11&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;95&lt;/Width&gt;&lt;/Column11&gt;&lt;Column12 ID="PrecioPresupMatA"&gt;&lt;Caption&gt;PrecioPresupMatA&lt;/Caption&gt;&lt;DataMember&gt;PrecioPresupMatA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;PrecioPresupMatA&lt;/Key&gt;&lt;Position&gt;12&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column12&gt;&lt;Column13 ID="UdValoracion"&gt;&lt;Caption&gt;UdValoracion&lt;/Caption&gt;&lt;DataMember&gt;UdValoracion&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;UdValoracion&lt;/Key&gt;&lt;Position&gt;13&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column13&gt;&lt;Column14 ID="Dto1"&gt;&lt;Caption&gt;Dto1&lt;/Caption&gt;&lt;DataMember&gt;Dto1&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Dto1&lt;/Key&gt;&lt;Position&gt;14&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column14&gt;&lt;Column15 ID="Dto2"&gt;&lt;Caption&gt;Dto2&lt;/Caption&gt;&lt;DataMember&gt;Dto2&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Dto2&lt;/Key&gt;&lt;Position&gt;15&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column15&gt;&lt;Column16 ID="Dto3"&gt;&lt;Caption&gt;Dto3&lt;/Caption&gt;&lt;DataMember&gt;Dto3&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Dto3&lt;/Key&gt;&lt;Position&gt;16&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column16&gt;&lt;Column17 ID="ImpPresupMatA"&gt;&lt;Caption&gt;ImpPresupMatA&lt;/Caption&gt;&lt;DataMember&gt;ImpPresupMatA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;ImpPresupMatA&lt;/Key&gt;&lt;Position&gt;17&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column17&gt;&lt;Column18 ID="MargenPresup"&gt;&lt;Caption&gt;MargenPresup&lt;/Caption&gt;&lt;DataMember&gt;MargenPresup&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;MargenPresup&lt;/Key&gt;&lt;Position&gt;18&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column18&gt;&lt;Column19 ID="ImpPresupMatVentaA"&gt;&lt;Caption&gt;ImpPresupMatVentaA&lt;/Caption&gt;&lt;DataMember&gt;ImpPresupMatVentaA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;ImpPresupMatVentaA&lt;/Key&gt;&lt;Position&gt;19&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column19&gt;&lt;Column20 ID="PrecioVentaA"&gt;&lt;Caption&gt;PrecioVentaA&lt;/Caption&gt;&lt;DataMember&gt;PrecioVentaA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;PrecioVentaA&lt;/Key&gt;&lt;Position&gt;20&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column20&gt;&lt;Column21 ID="Manual"&gt;&lt;Caption&gt;Manual&lt;/Caption&gt;&lt;ColumnType&gt;CheckBox&lt;/ColumnType&gt;&lt;DataMember&gt;Manual&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Manual&lt;/Key&gt;&lt;Position&gt;21&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;66&lt;/Width&gt;&lt;/Column21&gt;&lt;Column22 ID="IDTipoTrabajo"&gt;&lt;Caption&gt;IDTipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;IDTipoTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDTipoTrabajo&lt;/Key&gt;&lt;Position&gt;22&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column22&gt;&lt;Column23 ID="IDSubtipoTrabajo"&gt;&lt;Caption&gt;IDSubtipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;IDSubtipoTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDSubtipoTrabajo&lt;/Key&gt;&lt;Position&gt;23&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column23&gt;&lt;Column24 ID="SubSubTipoTrabajo"&gt;&lt;Caption&gt;SubSubTipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;SubSubTipoTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;SubSubTipoTrabajo&lt;/Key&gt;&lt;Position&gt;24&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column24&gt;&lt;Column25 ID="TipoIncremento"&gt;&lt;Caption&gt;TipoIncremento&lt;/Caption&gt;&lt;DataMember&gt;TipoIncremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;TipoIncremento&lt;/Key&gt;&lt;Position&gt;25&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column25&gt;&lt;Column26 ID="Incremento"&gt;&lt;Caption&gt;Incremento&lt;/Caption&gt;&lt;DataMember&gt;Incremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Incremento&lt;/Key&gt;&lt;Position&gt;26&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column26&gt;&lt;Column27 ID="CodIncremento"&gt;&lt;Caption&gt;CodIncremento&lt;/Caption&gt;&lt;DataMember&gt;CodIncremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;CodIncremento&lt;/Key&gt;&lt;Position&gt;27&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column27&gt;&lt;Column28 ID="IDTrabajoIncremento"&gt;&lt;Caption&gt;IDTrabajoIncremento&lt;/Caption&gt;&lt;DataMember&gt;IDTrabajoIncremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDTrabajoIncremento&lt;/Key&gt;&lt;Position&gt;28&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column28&gt;&lt;Column29 ID="CCCompra"&gt;&lt;Caption&gt;CCCompra&lt;/Caption&gt;&lt;DataMember&gt;CCCompra&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;CCCompra&lt;/Key&gt;&lt;Position&gt;29&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column29&gt;&lt;Column30 ID="CCVenta"&gt;&lt;Caption&gt;CCVenta&lt;/Caption&gt;&lt;DataMember&gt;CCVenta&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;CCVenta&lt;/Key&gt;&lt;Position&gt;30&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column30&gt;&lt;Column31 ID="IDUDInterna"&gt;&lt;Caption&gt;IDUDInterna&lt;/Caption&gt;&lt;DataMember&gt;IDUDInterna&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDUDInterna&lt;/Key&gt;&lt;Position&gt;31&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column31&gt;&lt;Column32 ID="IDUDCompra"&gt;&lt;Caption&gt;IDUDCompra&lt;/Caption&gt;&lt;DataMember&gt;IDUDCompra&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDUDCompra&lt;/Key&gt;&lt;Position&gt;32&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column32&gt;&lt;Column33 ID="IDUDVenta"&gt;&lt;Caption&gt;IDUDVenta&lt;/Caption&gt;&lt;DataMember&gt;IDUDVenta&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDUDVenta&lt;/Key&gt;&lt;Position&gt;33&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column33&gt;&lt;/Columns&gt;&lt;GroupCondition /&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="GridMOD_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="IDPresup"&gt;&lt;Caption&gt;IDPresup&lt;/Caption&gt;&lt;DataMember&gt;IDPresup&lt;/DataMember&gt;&lt;Key&gt;IDPresup&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column0&gt;&lt;Column1 ID="IDLineaMod"&gt;&lt;Caption&gt;IDLineaMod&lt;/Caption&gt;&lt;DataMember&gt;IDLineaMod&lt;/DataMember&gt;&lt;Key&gt;IDLineaMod&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column1&gt;&lt;Column2 ID="IDTrabajoPresup"&gt;&lt;Caption&gt;IDTrabajoPresup&lt;/Caption&gt;&lt;DataMember&gt;IDTrabajoPresup&lt;/DataMember&gt;&lt;Key&gt;IDTrabajoPresup&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column2&gt;&lt;Column3 ID="Secuencia"&gt;&lt;Caption&gt;Sec.&lt;/Caption&gt;&lt;DataMember&gt;Secuencia&lt;/DataMember&gt;&lt;Key&gt;Secuencia&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;40&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="CodTrabajo"&gt;&lt;Caption&gt;Cod. Trabajo&lt;/Caption&gt;&lt;DataMember&gt;CodTrabajo&lt;/DataMember&gt;&lt;Key&gt;CodTrabajo&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;90&lt;/Width&gt;&lt;/Column4&gt;&lt;Column5 ID="QPresupTrabajo"&gt;&lt;Caption&gt;QPresupTrabajo&lt;/Caption&gt;&lt;DataMember&gt;QPresupTrabajo&lt;/DataMember&gt;&lt;Key&gt;QPresupTrabajo&lt;/Key&gt;&lt;Position&gt;5&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column5&gt;&lt;Column6 ID="IDCategoria"&gt;&lt;Caption&gt;Categoria&lt;/Caption&gt;&lt;DataMember&gt;IDCategoria&lt;/DataMember&gt;&lt;Key&gt;IDCategoria&lt;/Key&gt;&lt;Position&gt;6&lt;/Position&gt;&lt;/Column6&gt;&lt;Column7 ID="DescCategoria"&gt;&lt;Caption&gt;Desc. Categoria&lt;/Caption&gt;&lt;DataMember&gt;DescCategoria&lt;/DataMember&gt;&lt;Key&gt;DescCategoria&lt;/Key&gt;&lt;Position&gt;7&lt;/Position&gt;&lt;Width&gt;500&lt;/Width&gt;&lt;/Column7&gt;&lt;Column8 ID="IDHora"&gt;&lt;Caption&gt;IDHora&lt;/Caption&gt;&lt;DataMember&gt;IDHora&lt;/DataMember&gt;&lt;Key&gt;IDHora&lt;/Key&gt;&lt;Position&gt;8&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column8&gt;&lt;Column9 ID="DescHora"&gt;&lt;Caption&gt;DescHora&lt;/Caption&gt;&lt;DataMember&gt;DescHora&lt;/DataMember&gt;&lt;Key&gt;DescHora&lt;/Key&gt;&lt;Position&gt;9&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column9&gt;&lt;Column10 ID="HorasUnidad"&gt;&lt;Caption&gt;HorasUnidad&lt;/Caption&gt;&lt;DataMember&gt;HorasUnidad&lt;/DataMember&gt;&lt;Key&gt;HorasUnidad&lt;/Key&gt;&lt;Position&gt;10&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column10&gt;&lt;Column11 ID="HorasPresupMod"&gt;&lt;Caption&gt;HorasPresupMod&lt;/Caption&gt;&lt;DataMember&gt;HorasPresupMod&lt;/DataMember&gt;&lt;Key&gt;HorasPresupMod&lt;/Key&gt;&lt;Position&gt;11&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column11&gt;&lt;Column12 ID="TasaPresupModA"&gt;&lt;Caption&gt;TasaPresupModA&lt;/Caption&gt;&lt;DataMember&gt;TasaPresupModA&lt;/DataMember&gt;&lt;Key&gt;TasaPresupModA&lt;/Key&gt;&lt;Position&gt;12&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column12&gt;&lt;Column13 ID="ImpPresupModA"&gt;&lt;Caption&gt;ImpPresupModA&lt;/Caption&gt;&lt;DataMember&gt;ImpPresupModA&lt;/DataMember&gt;&lt;Key&gt;ImpPresupModA&lt;/Key&gt;&lt;Position&gt;13&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column13&gt;&lt;Column14 ID="MargenPresup"&gt;&lt;Caption&gt;MargenPresup&lt;/Caption&gt;&lt;DataMember&gt;MargenPresup&lt;/DataMember&gt;&lt;Key&gt;MargenPresup&lt;/Key&gt;&lt;Position&gt;14&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column14&gt;&lt;Column15 ID="ImpPresupModVentaA"&gt;&lt;Caption&gt;ImpPresupModVentaA&lt;/Caption&gt;&lt;DataMember&gt;ImpPresupModVentaA&lt;/DataMember&gt;&lt;Key&gt;ImpPresupModVentaA&lt;/Key&gt;&lt;Position&gt;15&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column15&gt;&lt;Column16 ID="PrecioVentaA"&gt;&lt;Caption&gt;PrecioVentaA&lt;/Caption&gt;&lt;DataMember&gt;PrecioVentaA&lt;/DataMember&gt;&lt;Key&gt;PrecioVentaA&lt;/Key&gt;&lt;Position&gt;16&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column16&gt;&lt;Column17 ID="Manual"&gt;&lt;Caption&gt;Manual&lt;/Caption&gt;&lt;ColumnType&gt;CheckBox&lt;/ColumnType&gt;&lt;DataMember&gt;Manual&lt;/DataMember&gt;&lt;EditType&gt;CheckBox&lt;/EditType&gt;&lt;Key&gt;Manual&lt;/Key&gt;&lt;Position&gt;17&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column17&gt;&lt;Column18 ID="IDTipoTrabajo"&gt;&lt;Caption&gt;IDTipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;IDTipoTrabajo&lt;/DataMember&gt;&lt;Key&gt;IDTipoTrabajo&lt;/Key&gt;&lt;Position&gt;18&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column18&gt;&lt;Column19 ID="IDSubtipoTrabajo"&gt;&lt;Caption&gt;IDSubtipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;IDSubtipoTrabajo&lt;/DataMember&gt;&lt;Key&gt;IDSubtipoTrabajo&lt;/Key&gt;&lt;Position&gt;19&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column19&gt;&lt;Column20 ID="SubSubTipoTrabajo"&gt;&lt;Caption&gt;SubSubTipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;SubSubTipoTrabajo&lt;/DataMember&gt;&lt;Key&gt;SubSubTipoTrabajo&lt;/Key&gt;&lt;Position&gt;20&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column20&gt;&lt;Column21 ID="TipoIncremento"&gt;&lt;Caption&gt;TipoIncremento&lt;/Caption&gt;&lt;DataMember&gt;TipoIncremento&lt;/DataMember&gt;&lt;Key&gt;TipoIncremento&lt;/Key&gt;&lt;Position&gt;21&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column21&gt;&lt;Column22 ID="Incremento"&gt;&lt;Caption&gt;Incremento&lt;/Caption&gt;&lt;DataMember&gt;Incremento&lt;/DataMember&gt;&lt;Key&gt;Incremento&lt;/Key&gt;&lt;Position&gt;22&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column22&gt;&lt;Column23 ID="CodIncremento"&gt;&lt;Caption&gt;CodIncremento&lt;/Caption&gt;&lt;DataMember&gt;CodIncremento&lt;/DataMember&gt;&lt;Key&gt;CodIncremento&lt;/Key&gt;&lt;Position&gt;23&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column23&gt;&lt;Column24 ID="IDTrabajoIncremento"&gt;&lt;Caption&gt;IDTrabajoIncremento&lt;/Caption&gt;&lt;DataMember&gt;IDTrabajoIncremento&lt;/DataMember&gt;&lt;Key&gt;IDTrabajoIncremento&lt;/Key&gt;&lt;Position&gt;24&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column24&gt;&lt;/Columns&gt;&lt;GroupCondition /&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="GridCentros_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="IDLineaCentro"&gt;&lt;Caption&gt;IDLineaCentro&lt;/Caption&gt;&lt;DataMember&gt;IDLineaCentro&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDLineaCentro&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column0&gt;&lt;Column1 ID="IDPresup"&gt;&lt;Caption&gt;IDPresup&lt;/Caption&gt;&lt;DataMember&gt;IDPresup&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDPresup&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column1&gt;&lt;Column2 ID="IDTrabajoPresup"&gt;&lt;Caption&gt;IDTrabajoPresup&lt;/Caption&gt;&lt;DataMember&gt;IDTrabajoPresup&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDTrabajoPresup&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column2&gt;&lt;Column3 ID="Secuencia"&gt;&lt;Caption&gt;Sec.&lt;/Caption&gt;&lt;DataMember&gt;Secuencia&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Secuencia&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;40&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="CodTrabajo"&gt;&lt;Caption&gt;Cod. Trabajo&lt;/Caption&gt;&lt;DataMember&gt;CodTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;CodTrabajo&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;90&lt;/Width&gt;&lt;/Column4&gt;&lt;Column5 ID="QPresupTrabajo"&gt;&lt;Caption&gt;QPresupTrabajo&lt;/Caption&gt;&lt;DataMember&gt;QPresupTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;QPresupTrabajo&lt;/Key&gt;&lt;Position&gt;5&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column5&gt;&lt;Column6 ID="IDCentro"&gt;&lt;Caption&gt;Centro&lt;/Caption&gt;&lt;DataMember&gt;IDCentro&lt;/DataMember&gt;&lt;Key&gt;IDCentro&lt;/Key&gt;&lt;Position&gt;6&lt;/Position&gt;&lt;/Column6&gt;&lt;Column7 ID="DescCentro"&gt;&lt;Caption&gt;Desc. Centro&lt;/Caption&gt;&lt;DataMember&gt;DescCentro&lt;/DataMember&gt;&lt;Key&gt;DescCentro&lt;/Key&gt;&lt;Position&gt;7&lt;/Position&gt;&lt;Width&gt;500&lt;/Width&gt;&lt;/Column7&gt;&lt;Column8 ID="HorasUnidad"&gt;&lt;Caption&gt;HorasUnidad&lt;/Caption&gt;&lt;DataMember&gt;HorasUnidad&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;HorasUnidad&lt;/Key&gt;&lt;Position&gt;8&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column8&gt;&lt;Column9 ID="HorasPresupCentro"&gt;&lt;Caption&gt;HorasPresupCentro&lt;/Caption&gt;&lt;DataMember&gt;HorasPresupCentro&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;HorasPresupCentro&lt;/Key&gt;&lt;Position&gt;9&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column9&gt;&lt;Column10 ID="TasaPresupCentroA"&gt;&lt;Caption&gt;TasaPresupCentroA&lt;/Caption&gt;&lt;DataMember&gt;TasaPresupCentroA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;TasaPresupCentroA&lt;/Key&gt;&lt;Position&gt;10&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column10&gt;&lt;Column11 ID="ImpPresupCentroA"&gt;&lt;Caption&gt;ImpPresupCentroA&lt;/Caption&gt;&lt;DataMember&gt;ImpPresupCentroA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;ImpPresupCentroA&lt;/Key&gt;&lt;Position&gt;11&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column11&gt;&lt;Column12 ID="MargenPresup"&gt;&lt;Caption&gt;MargenPresup&lt;/Caption&gt;&lt;DataMember&gt;MargenPresup&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;MargenPresup&lt;/Key&gt;&lt;Position&gt;12&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column12&gt;&lt;Column13 ID="ImpPresupCentroVentaA"&gt;&lt;Caption&gt;ImpPresupCentroVentaA&lt;/Caption&gt;&lt;DataMember&gt;ImpPresupCentroVentaA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;ImpPresupCentroVentaA&lt;/Key&gt;&lt;Position&gt;13&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column13&gt;&lt;Column14 ID="PrecioVentaA"&gt;&lt;Caption&gt;PrecioVentaA&lt;/Caption&gt;&lt;DataMember&gt;PrecioVentaA&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;PrecioVentaA&lt;/Key&gt;&lt;Position&gt;14&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column14&gt;&lt;Column15 ID="Manual"&gt;&lt;Caption&gt;Manual&lt;/Caption&gt;&lt;ColumnType&gt;CheckBox&lt;/ColumnType&gt;&lt;DataMember&gt;Manual&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Manual&lt;/Key&gt;&lt;Position&gt;15&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column15&gt;&lt;Column16 ID="IDTipoTrabajo"&gt;&lt;Caption&gt;IDTipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;IDTipoTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDTipoTrabajo&lt;/Key&gt;&lt;Position&gt;16&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column16&gt;&lt;Column17 ID="IDSubtipoTrabajo"&gt;&lt;Caption&gt;IDSubtipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;IDSubtipoTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDSubtipoTrabajo&lt;/Key&gt;&lt;Position&gt;17&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column17&gt;&lt;Column18 ID="SubSubTipoTrabajo"&gt;&lt;Caption&gt;SubSubTipoTrabajo&lt;/Caption&gt;&lt;DataMember&gt;SubSubTipoTrabajo&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;SubSubTipoTrabajo&lt;/Key&gt;&lt;Position&gt;18&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column18&gt;&lt;Column19 ID="TipoIncremento"&gt;&lt;Caption&gt;TipoIncremento&lt;/Caption&gt;&lt;DataMember&gt;TipoIncremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;TipoIncremento&lt;/Key&gt;&lt;Position&gt;19&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column19&gt;&lt;Column20 ID="Incremento"&gt;&lt;Caption&gt;Incremento&lt;/Caption&gt;&lt;DataMember&gt;Incremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;Incremento&lt;/Key&gt;&lt;Position&gt;20&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column20&gt;&lt;Column21 ID="IDTrabajoIncremento"&gt;&lt;Caption&gt;IDTrabajoIncremento&lt;/Caption&gt;&lt;DataMember&gt;IDTrabajoIncremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IDTrabajoIncremento&lt;/Key&gt;&lt;Position&gt;21&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column21&gt;&lt;Column22 ID="CodIncremento"&gt;&lt;Caption&gt;CodIncremento&lt;/Caption&gt;&lt;DataMember&gt;CodIncremento&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;CodIncremento&lt;/Key&gt;&lt;Position&gt;22&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column22&gt;&lt;/Columns&gt;&lt;GroupCondition /&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>31</value>
+  </metadata>
+</root>

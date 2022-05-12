@@ -1,0 +1,95 @@
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.ObraPresup.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.ObraPresup.pdb
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\ResolveAssemblyReference.cache
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIActualizarPreciosPresup.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CICompTrabProy.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIPresupuesto.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIPresupuestoAno.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CISeleccionCapitulos.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddCentros.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddGastos.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddIncremento.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMateriales.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMediciones.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMOD.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddPresupObra.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmAddTrabajos.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddTrabajosIncremento.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddVarios.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmBC3.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmConverArticulos.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmDesgloseImportesTrabajo.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmEstructuraPresup.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmGeneraObra.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmImpEstructura.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoCopiaObraPresup.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoEstadoPresup.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoObraPresup.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.vbproj.GenerateResource.Cache
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.dll.licenses
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.dll
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.pdb
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmCargarAportaciones.resources
+U:\DESARROLLOS EXPERTIS 5 R2\Tecozam\FTecozam R2\Application\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmDatosFax.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\ResolveAssemblyReference.cache
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmCargarAportaciones.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIActualizarPreciosPresup.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CICompTrabProy.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIPresupuesto.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIPresupuestoAno.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CISeleccionCapitulos.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmDatosFax.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddCentros.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddGastos.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddIncremento.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMateriales.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMediciones.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMOD.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddPresupObra.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmAddTrabajos.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddTrabajosIncremento.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddVarios.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmBC3.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmConverArticulos.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmDesgloseImportesTrabajo.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmEstructuraPresup.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmGeneraObra.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmImpEstructura.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoCopiaObraPresup.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoEstadoPresup.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoObraPresup.resources
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.vbproj.GenerateResource.Cache
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.dll.licenses
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.dll
+C:\DES EXP5R2\Fuentes\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.pdb
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\ResolveAssemblyReference.cache
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmCargarAportaciones.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIActualizarPreciosPresup.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CICompTrabProy.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIPresupuesto.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CIPresupuestoAno.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.CISeleccionCapitulos.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmDatosFax.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddCentros.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddGastos.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddIncremento.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMateriales.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMediciones.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddMOD.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddPresupObra.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmAddTrabajos.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddTrabajosIncremento.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmAddVarios.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmBC3.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmConverArticulos.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmDesgloseImportesTrabajo.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.FrmEstructuraPresup.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmGeneraObra.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.frmImpEstructura.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoCopiaObraPresup.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoEstadoPresup.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Solmicro.Expertis.Application.ERP.ObraPresup.MntoObraPresup.resources
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.vbproj.GenerateResource.Cache
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.dll.licenses
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.dll
+C:\FUENTES EXPERTIS 5 R2\ApplicationSergio\Expertis.Application.ERP.ObraPresup\obj\Debug\Expertis.Application.ERP.ObraPresup.pdb
