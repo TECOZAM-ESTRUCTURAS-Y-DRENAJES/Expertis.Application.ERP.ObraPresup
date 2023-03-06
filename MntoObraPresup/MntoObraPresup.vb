@@ -8470,8 +8470,30 @@ Public Class MntoObraPresup
                 ImprimirMediciones("PresCartaCompromiso.rpt", e)
             Case "PRESNUEVOSV"
                 ImprimirMediciones("PresupuestoNuevoSinVal.rpt", e)
+                'David Velasco Listado por comercial 06/03/2023
+            Case "LISTPRES"
+                Dim rp As New Report("LISTPRES")
+                Dim fini As Date
+                Dim ffin As Date
+                Dim comercial As String
+                Dim frm As New FrmFechas
+                frm.ShowDialog()
+                fini = frm.fini
+                ffin = frm.ffin
+                comercial = frm.comercial
+                rp.Formulas("FInicio").Text = fini
+                rp.Formulas("FFin").Text = ffin
+                rp.Formulas("Comercial").Text = comercial
 
-
+                If frm.blnImprimir = False Then
+                    MessageBox.Show("Proceso Cancelado", "Información", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+                    e.Cancel = True
+                    Exit Sub
+                Else
+                    ExpertisApp.OpenReport(rp)
+                    e.Cancel = True
+                    Exit Sub
+                End If
         End Select
     End Sub
 
