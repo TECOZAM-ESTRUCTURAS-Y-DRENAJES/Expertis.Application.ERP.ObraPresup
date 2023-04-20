@@ -8462,6 +8462,8 @@ Public Class MntoObraPresup
                 e.Cancel = True
             Case "PRESNUEVO"
                 ImprimirMediciones("presupuestoNuevo.rpt", e)
+            Case "PRESNUEVOMED"
+                ImprimirMediciones("presupuestoNuevoMed_1.rpt", e)
             Case "PRESNUEVODCZ"
                 ImprimirMediciones("presupuestoNuevodcz.rpt", e)
             Case "CARCOMPRO"
